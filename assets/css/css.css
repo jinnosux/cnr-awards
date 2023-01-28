@@ -100,6 +100,10 @@ body {
 	height: 30px;
 }
 
+.bottom a{
+	color:#0095ff;
+}
+
 .streamers h1{
 	text-align: center;
 	color: #ffffff;
